@@ -1,0 +1,21 @@
+# from tkinter import*
+# root=Tk()
+# root.geometry("400x400")
+# a= Label(root,text="Principle Amount(Rs):").place(x=30,y=50)
+# e1=Entry(root).place(x=150,y=50)
+# b= Label(root,text="Rate(%):").place(x=30,y=90)
+# e2=Entry(root).place(x=150,y=90)
+# c=Label(root,text="Time(years):").place(x=30,y=140)
+# e3=Entry(root).place(x=150,y=140)
+# d=Button(root,text="Submit").place(x=170,y=180)
+# e=Label(root,text="Simple interest:").place(x=30,y=220)
+# e5=Entry(root).place(x=150,y=220)
+# f=Button(root,text="Add").place(x=30,y=260)
+# g=Button(root,text="Subtract").place(x=90,y=260)
+# h=Button(root,text="Multiplication").place(x=170,y=260)
+# i=Button(root,text="Division").place(x=280,y=260)
+# j=Label(root,text="Result:").place(x=30,y=300)
+# e6=Entry(root).place(x=150,y=300)
+
+
+# root.mainloop()
